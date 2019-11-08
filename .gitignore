@@ -67,3 +67,7 @@ public
 .contentful.json
 .env*
 !.env.example
+
+# local
+.DS_Store
+src/.DS_Store
